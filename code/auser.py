@@ -37,7 +37,7 @@ class Examinee():
         else:
             print(self.menu_title, self.account)
             print('已借閱：')
-            db.show_item("SELECT * FROM BORROWED_BOOK WHERE USER LIKE ?", 0, self.account)
+            # db.show_item("SELECT * FROM BORROWED_BOOK WHERE USER LIKE ?", 0, self.account)
         print(self.divider)
         for fid, fname in self.menu.items():
             print('%s:%s' % (fid, fname))

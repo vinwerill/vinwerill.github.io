@@ -1,3 +1,6 @@
-Harry_Potter-1 J.K.Rowling 3
-Harry_Potter-2 J.K.Rowling 2
-Harry_Potter-3 J.K.Rowling 4
+Harry_Potter-1 J.K.Rowling A17395
+Harry_Potter-1 J.K.Rowling A18402
+Harry_Potter-2 J.K.Rowling A19402
+Harry_Potter-2 J.K.Rowling A14928
+Harry_Potter-3 J.K.Rowling A14753
+Harry_Potter-3 J.K.Rowling A17402

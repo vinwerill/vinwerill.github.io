@@ -23,8 +23,8 @@ cur.execute("INSERT INTO USERS VALUES (2, 'Jane', 20, 20)")
 cur.execute(''' CREATE TABLE BOOKS
 (ID integer, BNAME text, WRITER text, CODE text)''')
 
-# cur.execute('''CREATE TABLE BORROWED_BOOK
-# (USER TEXT, BOOK TEXT)''')
+cur.execute('''CREATE TABLE BORROWED_BOOK
+(USER TEXT, BOOK TEXT)''')
 
 row_id = 0
 fin = open('library-books.txt', 'rt', encoding='utf-8')
